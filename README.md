@@ -2,7 +2,7 @@
 
 ## TCS
 ![TCS](img/TCS.png)
-![TCS iON Career Edge](img/TCS%20iON_Career_Edge_lT_for_Non-lT_course.png)
+![TCS iON Career Edge](img/TCS_iON_Career_Edge_lT_for_Non-lT_course.png)
 
 ## Data & Analytics
 ![SQL](img/SQL_Coursera.png)
@@ -11,13 +11,13 @@
 ![Microsoft Excel](img/Microsoft_Excel_Coursera.png)
 
 ## Programming
-![C Programming](img/C%20PROGRAMING_Coursera.png)
+![C Programming](img/C_PROGRAMING_Coursera.png)
 ![Python](img/Python_Coursera.png)
 ![JavaScript](img/JAVASCRIPT_Coursera.png)
 ![HTML5](img/HTML5_Coursera.png)
-![Laravel & PHP](img/Laravel_Framework_and%20PHP_Coursera.png)
+![Laravel & PHP](img/Laravel_Framework_and_PHP_Coursera.png)
 
 ## Web & Design
-![Web Design HTML CSS](img/Web_Design_Technology_HTML%20CSS_Coursera.png)
+![Web Design HTML CSS](img/Web_Design_Technology_HTML_CSS_Coursera.png)
 ![WordPress](img/WordPress.png)
 ![Google Ads](img/Google_Ads_Coursera.png)
