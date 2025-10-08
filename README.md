@@ -21,3 +21,7 @@
 ![Web Design HTML CSS](img/Web_Design_Technology_HTML_CSS_Coursera.png)
 ![WordPress](img/WordPress.png)
 ![Google Ads](img/Google_Ads_Coursera.png)
+
+## Designing
+![Figma Design](img/Figma.png)
+
