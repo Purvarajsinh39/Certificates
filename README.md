@@ -4,6 +4,9 @@
 ![TCS](img/TCS.png)
 ![TCS iON Career Edge](img/TCS_iON_Career_Edge_lT_for_Non-lT_course.png)
 
+## AI
+![OUTSKILL_AI](img/Outskill_ai.jpg)
+
 ## Data & Analytics
 ![SQL](img/SQL_Coursera.png)
 ![RDBMS](img/RDBMS_Coursera.png)
